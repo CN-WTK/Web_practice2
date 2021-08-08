@@ -30,17 +30,6 @@ const menu = [
         ]
     },
     {
-        title: '学部院系',
-        subMenu: [
-            {title: '人文与艺术学部'},
-            {title: '社会科学学部'},
-            {title: '自然科学学部'},
-            {title: '工程技术学部'},
-            {title: '医学与生命科学学部'},
-            {title: '地球科学与技术学部'},
-        ]
-    },
-    {
         title: '人才培养',
         subMenu: [
             {title: '学科'},
